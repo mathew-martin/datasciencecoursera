@@ -2,7 +2,7 @@
 title: "HelloWorld"
 author: "Mathew"
 date: "9/12/2020"
-output: pdf_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
